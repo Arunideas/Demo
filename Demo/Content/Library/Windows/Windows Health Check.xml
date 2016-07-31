@@ -1100,8 +1100,8 @@ scriptletContext.putGlobal(&quot;warningIO&quot;, warningIO);</script>
       <annotation></annotation>
       <name>Error : failure</name>
       <bounds>
-        <x>310.0</x>
-        <y>140.0</y>
+        <x>322.0</x>
+        <y>147.0</y>
       </bounds>
       <layer>2</layer>
       <hideInbound>false</hideInbound>
